@@ -44,4 +44,4 @@ def using_delete(array,string)
 end 
 
 def using_delete_at(array,num)
-  return array.deleteat
+  return array.delete_at()
